@@ -56,7 +56,5 @@ using (var scope = app.Services.CreateScope())
         db.Database.EnsureCreated();
     }
 }
-
 app.Run();
-
 public partial class Program { }
