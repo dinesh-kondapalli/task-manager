@@ -55,11 +55,13 @@ Desktop.ini
 *.sw?
 
 # =========================
-# Test Results
+# Test Results & Coverage
 # =========================
 TestResults/
 *.trx
 coverage/
+coverage-report/
+coverage-report-latest/
 *.coverage
 *.coveragexml
 coverage.cobertura.xml
